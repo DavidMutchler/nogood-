@@ -5,56 +5,10 @@
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="david" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State />
-              <State>
-                <id>General</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Python</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
         <property name="settings.editor.selected.configurable" value="ics" />
-      </component>
-      <component name="PublishConfigData" autoUpload="On explicit save action">
-        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
-      </component>
-      <component name="SshConsoleOptionsProvider">
-        <option name="myEncoding" value="UTF-8" />
-        <option name="myConnectionType" value="DEPLOYMENT_SERVER" />
-        <option name="myConnectionId" value="74bf9e7b-5caa-46eb-9e9c-a340ea88b55a" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.16527778" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>

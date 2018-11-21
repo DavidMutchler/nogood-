@@ -27,19 +27,19 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7 (Robot1)" />
+      <name value="Python 3.7 (untitled1)" />
       <type value="Python SDK" />
       <version value="Python 3.7.0" />
-      <homePath value="$USER_HOME$/PycharmProjects/Robot1/venv/bin/python" />
+      <homePath value="$USER_HOME$/PycharmProjects/untitled1/venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/PycharmProjects/Robot1/venv/lib/python3.7/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/PycharmProjects/Robot1/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/PycharmProjects/Robot1/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/383097740" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/untitled1/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled1/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-63845151" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
@@ -52,7 +52,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Robot1" />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled1" />
     </jdk>
   </component>
 </application>
